@@ -1,0 +1,39 @@
+{
+    "Course":[
+        {"id":1,
+        "type":"web",
+        "name":"HTML"},
+        
+        {"id":2,
+        "type":"web",
+        "name":"CSS"},
+
+        {"id":3,
+        "type":"web",
+        "name":"Java Script"},
+
+        {"id":4,
+        "type":"Mobile",
+        "name":"React Native"},
+
+        {"id":5,
+        "type":"Mobile",
+        "name":"Kotlin"},
+
+        {"id":6,
+        "type":"Mobile",
+        "name":"Ruby"},
+    
+        {"id":7,
+        "type":"general",
+        "name":"C"},
+
+        {"id":8,
+        "type":"general",
+        "name":"CPP"},
+
+        {"id":9,
+        "type":"general",
+        "name":"Core Java"}
+    ]
+}
